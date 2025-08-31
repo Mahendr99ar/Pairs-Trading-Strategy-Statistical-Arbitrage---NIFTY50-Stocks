@@ -1,0 +1,2 @@
+# Pairs-Trading-Strategy-Statistical-Arbitrage---NIFTY50-Stocks
+This project implements a complete pairs trading strategy using statistical arbitrage on NIFTY50 stock pairs. It identifies cointegrated pairs through cointegration testing and generates mean-reversion trading signals based on Z-score. The strategy is backtested with realistic transaction costs, demonstrating profitable and practical performance.
