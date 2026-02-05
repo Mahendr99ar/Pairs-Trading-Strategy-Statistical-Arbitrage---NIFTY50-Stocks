@@ -264,8 +264,7 @@ MIT License - see LICENSE file for details
 
 - **Author:** Mahendra Meena
 - **Email:** mani06.damor@gmail.com  
-- **LinkedIn:** [LinkedIn Profile]
-- **GitHub:** [GitHub Profile]
+
 
 ---
 
