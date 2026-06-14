@@ -10,11 +10,11 @@ This project implements a complete pairs trading strategy using statistical arbi
 
 ## Key Features
 
-- ✅ **Cointegration Testing:** Uses Engle-Granger test to identify statistically related pairs
-- ✅ **Z-Score Signals:** Mean-reversion trading based on statistical signals  
-- ✅ **Backtesting Framework:** Complete performance evaluation with realistic costs
-- ✅ **Risk Management:** Transaction costs, maximum drawdown, and position sizing
-- ✅ **Performance Metrics:** Sharpe ratio, annualized returns, win rate analysis
+- **Cointegration Testing:** Uses Engle-Granger test to identify statistically related pairs
+- **Z-Score Signals:** Mean-reversion trading based on statistical signals  
+- **Backtesting Framework:** Complete performance evaluation with realistic costs
+- **Risk Management:** Transaction costs, maximum drawdown, and position sizing
+- **Performance Metrics:** Sharpe ratio, annualized returns, win rate analysis
 
 ## Strategy Results
 
